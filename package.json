@@ -1,0 +1,23 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VyacheslavMiroshnik/AHJS-3-2.git"
+  },
+  "author": "VyacheslavMiroshnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VyacheslavMiroshnik/AHJS-3-2/issues"
+  },
+  "homepage": "https://github.com/VyacheslavMiroshnik/AHJS-3-2#readme",
+  "devDependencies": {
+    "@vyacheslavmiroshnik/ahjs-3-1": "^1.0.0"
+  }
+}
